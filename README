@@ -1,0 +1,7 @@
+This is an unoffical git mirror of the source code for the 'tree'
+command. Its official homepage is:
+
+    http://mama.indstate.edu/users/ice/tree/
+
+The 'master' branch in this repo contains the history of releases
+available from the official web site, each one in its own commit.
